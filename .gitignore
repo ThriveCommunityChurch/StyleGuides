@@ -1,0 +1,10 @@
+# Meta files
+.idea/
+/meta/
+meta/
+*.meta
+
+
+# Ignore any other file that might get added
+*.js
+*.html
