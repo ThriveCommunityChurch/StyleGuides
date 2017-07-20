@@ -1,0 +1,28 @@
+
+#facebook {
+	max-width: 50px;
+	height: auto;
+}
+
+#insta {
+	max-width: 50px;
+	height: auto;
+}
+
+#twitter {
+	max-width: 50px;
+	height: auto;
+}
+
+/*
+Adjacent selector for tri menu div class in Front-Page-4 
+*/
+.triMenu h4 {
+	color: #2698AE; 
+	font-size: 100%;
+}
+
+#gettingConnected {
+	color: #2EBED8; 
+	font-size: 325%;
+}

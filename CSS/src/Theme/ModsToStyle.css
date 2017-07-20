@@ -1,0 +1,7 @@
+/*
+	Home page video container
+*/
+.vidbg-container video {
+	max-width: none !important;
+	
+}
